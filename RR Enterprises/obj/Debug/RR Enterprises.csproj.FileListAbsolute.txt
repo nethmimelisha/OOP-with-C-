@@ -1,0 +1,57 @@
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\RR Enterprises.exe.config
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\RR Enterprises.exe
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\RR Enterprises.pdb
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\Newtonsoft.Json.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\RestSharp.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Buffers.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.CodeDom.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Data.Odbc.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Data.OleDb.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Data.SqlClient.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Drawing.Common.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.IO.Packaging.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.IO.Ports.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Memory.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Numerics.Vectors.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.AccessControl.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.Permissions.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Security.Principal.Windows.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\System.Threading.AccessControl.xml
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.csproj.AssemblyReference.cache
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.csproj.SuggestedBindingRedirects.cache
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Customer.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Employee.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Home.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Intro.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Invoice.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Items.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Login.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Properties.Resources.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.Supplier.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR_Enterprises.ViewInvoice.resources
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.csproj.GenerateResource.cache
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.csproj.CoreCompileInputs.cache
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.csproj.Fody.CopyLocal.cache
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.csproj.CopyComplete
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.exe
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\obj\Debug\RR Enterprises.pdb
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\RREnt.mdf
+C:\Desktop\C# Project\RR Enterprises\RR Enterprises\bin\Debug\RREnt_log.ldf
